@@ -1,4 +1,4 @@
-# GA-Capstone Online Retail Data Set ( Segment Customers to levels )
+# Capstone Online Retail Data Set ( Segment Customers to levels )
 
 ## Data Set Information:
 
