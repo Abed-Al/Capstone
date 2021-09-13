@@ -1,4 +1,4 @@
-# GA-Capstone Online Retail Data Set
+# GA-Capstone Online Retail Data Set ( Segment Customers to levels )
 
 ## Data Set Information:
 
@@ -6,7 +6,6 @@ This is a transnational data set which contains all the transactions occurring b
 
 Online Retail Data Set data set contains 8 columns, and around 540,000 rows.
 You can download the data from UCI in this like: [_here_](https://archive.ics.uci.edu/ml/datasets/online+retail)
-
 
 
 ## Columns descriptions:
@@ -29,14 +28,41 @@ uniquely assigned to each customer.
 8-Country: Country name. Nominal, the name of the country where each customer resides.
 
 
-## The aim of this project is to answer some question like:
+## The aim of this project 
+
+Analysed the content of the E-Commerce database that contains the purchases made by more than 4000 customers over a period of one year. 
+I tried to find answers to questions that usually come from the companies, such as:
+Which customers are more important for the company.
+Which customers can be lost.
+What kind of customers groups the company have (Vip, Loyal, Middle, At Risk)
+Also, find answer for some question like:
     - Best buyers to  follow up with them and send them offers?
     - Best spent customers?
     - Countries bring the best sales from?
     - Number of customers in each country?
     - Customers that have the most orders to the least in all Customers?
     - Customer they have Just 1 orders and Customers they have between 1 and 20 orders?
-    
+
+
+## Techniques used: 
+##### Python and Clustering Algorithm
+##### Segment the customers with RFM method
+    - Recency: How recently a customer has made a purchase
+    - Frequency: How often a customer makes a purchase
+    - Monetary Value: How much money a customer spends on purchases
+
+## Process: 
+##### Data Preparation (cleaning)
+      To extract most useful data
+##### Exploratory Data Analysis (EDA)
+      To look at data and identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events,
+      find interesting relations among the variables.
+##### K-Means Segmentation
+##### Find the level of costumes and identify them to groups (Vip, Loyal, Middle, At Risk)
+
+
+
+  
     
 ## Technique used
 
