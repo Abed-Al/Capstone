@@ -28,7 +28,7 @@ uniquely assigned to each customer.
 8-Country: Country name. Nominal, the name of the country where each customer resides.
 
 
-## The aim of this project 
+## The aim of this project:
 
 Analysed the content of the E-Commerce database that contains the purchases made by more than 4000 customers over a period of one year. 
 I tried to find answers to questions that usually come from the companies, such as:
