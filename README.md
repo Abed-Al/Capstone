@@ -50,18 +50,6 @@ Also, find answer for some question like:
     - Recency: How recently a customer has made a purchase
     - Frequency: How often a customer makes a purchase
     - Monetary Value: How much money a customer spends on purchases
-
-## Process: 
-##### Data Preparation (cleaning)
-      To extract most useful data
-##### Exploratory Data Analysis (EDA)
-      To look at data and identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events,
-      find interesting relations among the variables.
-##### K-Means Segmentation
-##### Find the level of costumes and identify them to groups (Vip, Loyal, Middle, At Risk)
-
-
-
   
     
 ## Technique used
