@@ -50,16 +50,6 @@ Also, find answer for some question like:
     - Recency: How recently a customer has made a purchase
     - Frequency: How often a customer makes a purchase
     - Monetary Value: How much money a customer spends on purchases
-  
-    
-## Technique used
-
-#### Python and Machine Learning Algorithm
- 
-##### Segment the customers with RFM method
-    Recency: How recently a customer has made a purchase
-    Frequency: How often a customer makes a purchase
-    Monetary Value: How much money a customer spends on purchases
 
 ## Process: 
 #### - Data Preparation (cleaning)
