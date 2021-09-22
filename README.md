@@ -52,7 +52,7 @@ Used cleaning To extract most useful data, by:
 ## Exploratory Data Analysis (EDA)
      To look at data and identify obvious errors, as well as better understand patterns within the data,
      detect outliers or anomalous events, find interesting relations among the variables.
-png.png ![](Screenshot (1301).png)
+png.png ![](https://github.com/Abed-Al/Capstone/blob/main/Project_img/Screenshot%20(1301).png)
 
 ## Techniques used: 
 ##### Python and Clustering Algorithm
