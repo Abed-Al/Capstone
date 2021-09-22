@@ -1,14 +1,14 @@
 # Capstone Online Retail Data Set ( Segment Customers to levels )
 
-## Data Set Information:
+## Overview
 
+#### Data Set Information:
 This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 Online Retail Data Set data set contains 8 columns, and around 540,000 rows.
 You can download the data from UCI in this like: [_here_](https://archive.ics.uci.edu/ml/datasets/online+retail)
 
-
-## Columns descriptions:
+#### Columns descriptions:
 
 1- InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
 
@@ -30,11 +30,8 @@ uniquely assigned to each customer.
 
 ## The aim of this project:
 
-Analysed the content of the E-Commerce database that contains the purchases made by more than 4000 customers over a period of one year. 
-I tried to find answers to questions that usually come from the companies, such as:
-Which customers are more important for the company.
-Which customers can be lost.
-What kind of customers groups the company have (Vip, Loyal, Middle, At Risk)
+Analysed the content of the E-Commerce database that contains the purchases made by more than 4000 customers over one year. 
+The aim was to find out which customers would fit into different categories (Vip, Loyal, Middle, At Risk) in terms of who was most important for the company
 Also, find answer for some question like:
     - Best buyers to  follow up with them and send them offers?
     - Best spent customers?
@@ -43,6 +40,17 @@ Also, find answer for some question like:
     - Customers that have the most orders to the least in all Customers?
     - Customer they have Just 1 orders and Customers they have between 1 and 20 orders?
 
+## Cleaning & Processing
+
+Used cleaning and EDA To extract most useful data, by:
+    - Identifying variables relevant to modelling, and which to drop.
+    - Interpreting continuous and categorical features.
+    - Creating more model-friendly feature names.
+    - Exploring opportunities for new feature creation.
+    - Looking for erroneous, duplicated or missing data.
+    
+## Exploratory Data Analysis
+png.png ![](png.png)
 
 ## Techniques used: 
 ##### Python and Clustering Algorithm
