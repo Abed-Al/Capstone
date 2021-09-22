@@ -42,14 +42,16 @@ Also, find answer for some question like:
 
 ## Cleaning & Processing
 
-Used cleaning and EDA To extract most useful data, by:
+Used cleaning To extract most useful data, by:
     - Identifying variables relevant to modelling, and which to drop.
     - Interpreting continuous and categorical features.
     - Creating more model-friendly feature names.
     - Exploring opportunities for new feature creation.
     - Looking for erroneous, duplicated or missing data.
     
-## Exploratory Data Analysis
+## Exploratory Data Analysis (EDA)
+     To look at data and identify obvious errors, as well as better understand patterns within the data,
+     detect outliers or anomalous events, find interesting relations among the variables.
 png.png ![](png.png)
 
 ## Techniques used: 
@@ -58,13 +60,6 @@ png.png ![](png.png)
     - Recency: How recently a customer has made a purchase
     - Frequency: How often a customer makes a purchase
     - Monetary Value: How much money a customer spends on purchases
-
-## Process: 
-#### - Data Preparation (cleaning)
-     To extract most useful data
-#### - Exploratory Data Analysis (EDA)
-     To look at data and identify obvious errors, as well as better understand patterns within the data,
-     detect outliers or anomalous events, find interesting relations among the variables.
 #### - K-Means Segmentation
 #### - Find the level of costumes and identify them to groups (Vip, Loyal, Middle, At Risk)
 
