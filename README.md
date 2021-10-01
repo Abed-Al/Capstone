@@ -1,4 +1,4 @@
-# Capstone Online Retail Data Set ( Segment Customers to levels )
+# Online Retail Data Set ( Segment Customers to levels )
 
 ## Overview
 
