@@ -90,18 +90,23 @@ png.png ![]()
 4-  Add (RFM_segment) column which is show us the combined concatenated score of RFM.
 
 The score will be between 3 and 15, because:
+
 Lowest score is 3 = 1 Recency, 1 Frequency, 1 Monetary
- Highest score is 15 = 5 Recency, 5 Frequency, 5 Monet
+
+Highest score is 15 = 5 Recency, 5 Frequency, 5 Monet
+ 
  png.png ![]()
  
  Find out RFM score segmentation
 The score will by between 3 and 15, because:
 Lowest score is 3 = 1 Recency, 1 Frequency, 1 Monetary
 Highest score is = 5 Recency, 5 Frequency, 5 Monetary
-Find out the mean for each score in (Recency,Frequency,Monetary) and (count, sum) Monetary 
+Find out the mean for each score in (Recency,Frequency,Monetary) and (count, sum) Monetary
+
 png.png ![]()
 
 Divide the customer to groups (V_Vip, Vip, Loyal, Middle, Low)
+
 png.png ![]()
 png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-to-levels-/blob/main/Project_img/Number%20customer%20in%20each%20Segment_Level.png)
 
