@@ -71,7 +71,8 @@ png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-
 ## Techniques used: 
 ##### Python and Clustering Algorithm
 ##### Segment the customers with RFM method
-Create new data (rfm_data) :contains (CustomerID, recency, frequency, monetary) columns
+Create new data (rfm_data): contains (CustomerID, recency, frequency, monetary) columns:
+
 1-  Segment the customers to levels by find (Recency, Frequency, Monetary) for each customer:
 Recency = The difference between the last order customers make and the last day of the data
 Frequency = Number of orders based on (InvoiceNo) done by each customer
