@@ -99,8 +99,11 @@ Highest score is 15 = 5 Recency, 5 Frequency, 5 Monet
  
  Find out RFM score segmentation
 The score will by between 3 and 15, because:
+
 Lowest score is 3 = 1 Recency, 1 Frequency, 1 Monetary
+
 Highest score is = 5 Recency, 5 Frequency, 5 Monetary
+
 Find out the mean for each score in (Recency,Frequency,Monetary) and (count, sum) Monetary
 
 png.png ![]()
@@ -113,6 +116,7 @@ png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-
 #### - K-Means Segmentation
 Produce an elbow plot to decide on a suitable number of clusters.
 png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-to-levels-/blob/main/Project_img/plot_elbow.png)
+
 I think the best number of clusters is 4.
 
 
@@ -122,7 +126,11 @@ png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-
 
 
 ## Conclusion
-From the above analysis, we can see that there should be 4 clusters in our data. To understand what these 4 clusters mean in a business scenario, we should look back at the table comparing the clustering performance of 3 and 4 clusters for the mean values of recency, frequency, and monetary metric. On this basis, let us label the clusters as ‘New customers’, ‘Lost customers’, ‘Best customers’, and ‘At risk customers’.
+From the above analysis, we can see that there should be 4 clusters in our data.
+
+To understand what these 4 clusters mean in a business scenario, we should look back at the table comparing the clustering performance of 3 and 4 clusters for the mean values of recency, frequency, and monetary metric.
+
+On this basis, let us label the clusters as ‘New customers’, ‘Lost customers’, ‘Best customers’, and ‘At risk customers’.
 
 ## Challenges
 One of the challenges on the project was using the RFM Segmentation method to segment the customers data and find the correct level for each customer. Another challenge was measuring how effective this method was compared with K-means clustering.
