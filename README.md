@@ -74,9 +74,13 @@ png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-
 Create new data (rfm_data): contains (CustomerID, recency, frequency, monetary) columns:
 
 1-  Segment the customers to levels by find (Recency, Frequency, Monetary) for each customer:
+
 Recency = The difference between the last order customers make and the last day of the data
+
 Frequency = Number of orders based on (InvoiceNo) done by each customer
+
 Monetary = The total amount the customer spend during the period of the data
+
 png.png ![]()
 
 2-   Find (Recency_score, Frequency_score, Monetary_score) by apply qcut function (Quantile-based discretization) to RFM data and create score column for each one.
