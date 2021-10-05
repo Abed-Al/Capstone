@@ -95,9 +95,9 @@ Lowest score is 3 = 1 Recency, 1 Frequency, 1 Monetary
 
 Highest score is 15 = 5 Recency, 5 Frequency, 5 Monet
  
- png.png ![]()
+ png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-to-levels-/blob/main/Project_img/Screenshot%20(1331).png)
  
- Find out RFM score segmentation
+Find out RFM score segmentation
 The score will by between 3 and 15, because:
 
 Lowest score is 3 = 1 Recency, 1 Frequency, 1 Monetary
@@ -106,11 +106,11 @@ Highest score is = 5 Recency, 5 Frequency, 5 Monetary
 
 Find out the mean for each score in (Recency,Frequency,Monetary) and (count, sum) Monetary
 
-png.png ![]()
+png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-to-levels-/blob/main/Project_img/Find%20out%20the%20mean%20for%20each%20score%20in%20(Recency%2CFrequency%2CMonetary)%20and%20(count%2C%20sum)%20Monetary%20.png)
 
 Divide the customer to groups (V_Vip, Vip, Loyal, Middle, Low)
 
-png.png ![]()
+png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-to-levels-/blob/main/Project_img/Divide%20the%20customer%20to%20groups.png)
 png.png ![](https://github.com/Abed-Al/Online-Retail-Data-Set-Segment-Customers-to-levels-/blob/main/Project_img/Number%20customer%20in%20each%20Segment_Level.png)
 
 #### - K-Means Segmentation
