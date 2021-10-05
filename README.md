@@ -77,9 +77,13 @@ Recency = The difference between the last order customers make and the last day 
 Frequency = Number of orders based on (InvoiceNo) done by each customer
 Monetary = The total amount the customer spend during the period of the data
 png.png ![]()
-2-   Find (Recency_score, Frequency_score, Monetary_score) by apply qcut function (Quantile-based discretization) to RFM data and create score column for each one  
-3-  Add (RFM_Score) column which is sum of: (Recency_score, Frequency_score, Monetary_score)
-4-  Add (RFM_segment) column which is show us the combined concatenated score of RFM
+
+2-   Find (Recency_score, Frequency_score, Monetary_score) by apply qcut function (Quantile-based discretization) to RFM data and create score column for each one.
+
+3-  Add (RFM_Score) column which is sum of: (Recency_score, Frequency_score, Monetary_score).
+
+4-  Add (RFM_segment) column which is show us the combined concatenated score of RFM.
+
 The score will be between 3 and 15, because:
 Lowest score is 3 = 1 Recency, 1 Frequency, 1 Monetary
  Highest score is 15 = 5 Recency, 5 Frequency, 5 Monet
@@ -124,9 +128,15 @@ Another key learning was understanding the importance of understanding your data
 
 ## Ref:
 -https://www.shopify.in/encyclopedia/customer-segmentation
+
 -https://learn.datacamp.com/courses/customer-segmentation-in-python 
+
 -https://looker.com/blog/creating-actionable-customer-segmentation-models
+
 -https://www.business2community.com/customer-experience/4-types-of-customer-segmentation-all-marketers-should-know-02120397 
+
 -https://towardsdatascience.com/customer-segmentation-in-online-retail-1fc707a6f9e
+
 -https://www.intercom.com/blog/customer-segmentation/
+
 -https://numpy.org/doc/stable/reference/generated/numpy.log.html
